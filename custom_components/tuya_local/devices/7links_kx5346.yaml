@@ -1,7 +1,4 @@
-name: Camera
-products:
-  - id: bfcd2ff239c9af5cdcwckf
-    name: 7Links KX-5346
+name: 7Links KX-5346 Camera
 primary_entity:
   entity: camera
   dps:
