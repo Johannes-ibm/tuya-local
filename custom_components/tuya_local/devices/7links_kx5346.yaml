@@ -3,7 +3,11 @@ products:
   - id: vs93vaoojjlwg9ic
     name: 7Links KX-5346
 primary_entity:
-  entity: camera
+  entity: switch
+  dps:
+  - id: 105
+    name: Privacy Mode
+    type: boolean
 secondary_entities:
   - entity: switch
     name: Flood Light
