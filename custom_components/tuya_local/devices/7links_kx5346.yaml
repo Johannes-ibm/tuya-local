@@ -21,6 +21,7 @@ secondary_entities:
     name: Motion Enable
     category: config
     icon: "mdi:motion-sensor"
+    dps:
       - id: 134
         name: motion_enable
         type: boolean
@@ -28,12 +29,14 @@ secondary_entities:
     name: Record Enable
     category: config
     icon: "mdi:file-video"
+    dps:
       - id: 150
         name: record
         type: boolean
   - entity: switch
     name: Siren
     category: config
+    dps:
       - id: 159
         name: siren
         type: boolean
