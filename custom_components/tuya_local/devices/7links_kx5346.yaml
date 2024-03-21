@@ -4,16 +4,32 @@ products:
     name: 7Links KX-5346
 primary_entity:
   entity: camera
-  dps:
-    - id: 138
-      name: light_switch
-      type: boolean
-    - id: 134
-      name: motion_enable
-      type: boolean
-    - id: 150
-      name: record
-      type: boolean
-    - id: 159
-      name: siren
-      type: boolean
+secondary_entities:
+  - entity: switch
+    name: Flood Light
+    category: config
+    icon: "mdi:led-on"
+    dps:
+      - id: 138
+        name: light_switch
+        type: boolean
+  - entity: switch
+    name: Motion Enable
+    category: config
+    icon: "mdi:motion-sensor"
+      - id: 134
+        name: motion_enable
+        type: boolean
+  - entity: switch
+    name: Record Enable
+    category: config
+    icon: "mdi:file-video"
+      - id: 150
+        name: record
+        type: boolean
+  - entity: switch
+    name: Siren
+    category: config
+      - id: 159
+        name: siren
+        type: boolean
