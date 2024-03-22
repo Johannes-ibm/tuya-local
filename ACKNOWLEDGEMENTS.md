@@ -495,7 +495,7 @@ Further device support has been made with the assistance of users. Please consid
 - [RoelDU](https://github.com/RoelDU) for assisting with support for Mirabella Genio Pixel oval lights.
 - [toposilva](https://github.com/toposilva) for assisting with support for 1CH dimmer modules.
 - [Pel1can111](https://github.com/Pel1can111) for assisting with support for Timeguard WFPIR motion light controller.
-- [ShiGhost](https://github.com/ShiGhost) for assisting with support for Keyun RGB chandelier fans.
+- [ShiGhost](https://github.com/ShiGhost) for assisting with support for Keyun RGB chandelier fans and LS830-TY curtains.
 - [knowc](https://github.com/knowc) for assisting with support for Hydrotherm Dynamic/X8 Gen 6 water heaters.
 - [Waz-Cpt](https://github.com/Waz-Cpt) for contributing support for a dual dimmer module.
 - [wizu](https://gitub.com/wizu) for contributing improvements to NAC AP470 purifier.
@@ -524,3 +524,6 @@ Further device support has been made with the assistance of users. Please consid
 - [korzeniewski36](https://github.com/korzeniewski36) for assisting with support for KKMoon knob thermostats.
 - [ItsMe00007](https://github.com/ItsMe00007) for contributing support for Lehmann LHOHC-2013C radiators.
 - [bonius1](https://github.com/bonius1) for assisting with support for Zemismart DP-WBS01 8 zone irrigation controllers.
+- [airwebber](https://github.com/airwebber) for assisting with support for Orison ceiling fans with RGB lights.
+^ [cherokee13](https://github.com/cherokee13) for assisting with support for Eruiklink curtain motors.
+- [Szenky](https://github.com/Szensky) for assisting with support for Moes WS-Y-EUC curtain switches.

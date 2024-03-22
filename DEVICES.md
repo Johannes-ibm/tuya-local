@@ -199,6 +199,7 @@
 - Keyun MKCFE002 RGB chandelier fan
 - Kogan bladeless fans
 - Mantra ceiling fan with light
+- Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
 - Reiga 52 ceiling fan with light
 - Royal Clima RCB 150 ventilation system
@@ -507,6 +508,7 @@ of device.
 - Dongguan garage door
 - Dongguan LY1678-2 curtain robot
 - Dooya curtain motor
+- Eruiklink curtain motor
 - Etersky curtain switch with backlight and timing control
 - FS-03W curtain switch with backlight control
 - Graywind window shades
@@ -515,9 +517,11 @@ of device.
 - LoraTap GDC100W garage door opener
 - LoraTap QCSC420W double curtain switch
 - LoraTap SC500W-V1 curtain switch (supports many other simple curtain/blind controllers)
+- LS830-TY curtain
 - M027 curtain module (sold under several brands, including zemismart, meterk and others)
 - M515 curtain motor
-- Moes SCS80 Touch curtain swich with backlight and timing control
+- Moes SCS80 Touch curtain switch with backlight and timing control
+- Moes WS-Y-EUC curtain switch with backlight and timing control
 - QS-WIFI-C01(BK) curtain module
 - SHerko curtain motor
 - SmartCurtains A-series ACS-WT curtain motor (may work for other models)
